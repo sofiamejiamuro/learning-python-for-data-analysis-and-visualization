@@ -1,1 +1,1 @@
-# learning-python-for-data-dnalysis-and-visualization
+# learning-python-for-data-analysis-and-visualization
